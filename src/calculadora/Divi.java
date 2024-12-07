@@ -8,6 +8,9 @@ package calculadora;
  *
  * @author USUARIO
  */
+
+//Funcion Division
+
 public class Divi {
      public Double ver(double x, double y) {
         return x / y;
